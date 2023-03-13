@@ -4,7 +4,9 @@ This is a page I use to practice data visualisation, reporting, and stakeholder 
 Hi again!
 
 <b>Why this report is here?</b></br>
-As part of the bootcamp in marketing analytics we had one module on design principles and psychological concepts used in marketing. As an outcome, together with 2 colleagues, we created a comprehensive document that covers the main techniques and provides practical examples you might use in your own marketing strategies. From universal Gestalt principles to conversion-centred design, we covered it all so you can understand your customer better.
+As part of the bootcamp in marketing analytics we had several modules on data visualisation and reporting. One of tasks was to analyse a given set of raw data collected in 3 months: 
+https://drive.google.com/file/d/1hO-dXvHDzJBPn4prA2zStzthM8tndRH5/view 
+
 
 <b>Link to the report:</b></br>
 https://www.slideshare.net/ElenaBubeeva/reportblogperformanceanalysispdf
