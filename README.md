@@ -1,5 +1,5 @@
 # a-data-visualisation-report
-This is a page I use to practice data visualisation, reporting, and stakeholder management.
+This is a page I use to practice data visualisation, reporting, and stakeholder management using Looker Studio.
 
 Hi again!
 
